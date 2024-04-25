@@ -1,2 +1,13 @@
-# CS-370-J8998-Current-Emerging-Trends-in-CS-24EW4
-CS-370-J8998 Current/Emerging Trends in CS 24EW4
+### Reflection on My Course Work
+
+**Project Challenge:**
+For this project, we were challenged to create an intelligent agent that was capable of navigating a maze using deep Q-learning integrated with neural networks. Initially provided with foundational code that outlined an AI agent designed for specific environments, including its ability to perceive its environment and interact with it in limited capacities, I added additional components that enabled it to learn from its interactions.  This was accomplished by implementing deep Q-learning algorithms with neural networks which updated its understanding based on outcomes of its actions taken by its actions taken by this intelligent agent.
+
+**Custom Code Creation:**
+My contributions were directed to work on increasing the agent's learning abilities. Specifically, designing and deploying a neural network architecture with appropriate layers, activation functions, and experience replay capabilities.  These were needed to efficiently process state inputs into potential actions. The key here was to provide experience replay functionality to optimize learning efficiency and stability via a training loop. The purpose was to further maximize learning efficiency and stability. Programming logic stored experiences before sampling from them to train the network on newly learned Q-values before revising decision-making policy according to these learned Q-values before revising decision-making policy accordingly based on these learned Q-values.
+
+### Connecting Computer Science
+Computer scientists are master problem-solvers and innovators. Applying their theoretical knowledge of mathematics and computation, they employ their practical solutions to make significant impacts across various areas of everyday life and business operations. Their work leads to technological progress and efficiency improvements across fields like medicine, finance, education etc. This project's development of AI agents illustrates their capacity for handling dynamic issues by devising systems which autonomously learn and adapt accordingly.
+As a computer scientist, my approach to problem-solving is methodical and computational in nature. This involves breaking complex problems down into more manageable parts, abstracting these parts to define core issues, and developing algorithms to address them effectively. For this project specifically, this meant analyzing maze navigation problem with respect to states and actions needed, learning/optimization techniques to develop an AI agent capable of performing its intended function, etc.
+
+Computer scientists bear an ethical responsibility when developing AI systems, particularly regarding their impact on end users and society in general. This involves considering how these solutions will impact privacy, data security, bias in decision making processes and harm reduction caused by automated decisions.  Additionally they must protect both end users as well as organizations against unrealistic expectations or misuse of technology.
